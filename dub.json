@@ -1,0 +1,9 @@
+{
+	"description": "A CLI tool to manage your devlogs",
+	"license": "MIT",
+	"authors": [
+		"mostypc123"
+	],
+	"copyright": "Copyright © 2026, mostypc123",
+	"name": "devlog"
+}
